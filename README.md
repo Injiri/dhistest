@@ -22,6 +22,10 @@ yarn start
 ```bash
 yarn build
 ```
+## demo
+```bash
+Install the ogunits-admin.zip file on dhis2 test platform
+```
 ## Adding dependecies 
 To add dependencies to your local :
 ```
