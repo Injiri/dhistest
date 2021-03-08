@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ou-code">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ou-code.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
